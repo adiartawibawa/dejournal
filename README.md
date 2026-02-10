@@ -1,11 +1,5 @@
 # **ALUR PROGRAM DETAIL - SISTEM JURNAL PEMBELAJARAN DIGITAL**
 
-Terima kasih atas revisinya! Sebagai developer Laravel berpengalaman, saya akan memperbaiki dan menyempurnakan alur program dengan mempertimbangkan **skalabilitas, maintainability, dan kebutuhan riil sekolah**. Berikut revisi lengkap:
-
----
-
-## **REVISI & PERBAIKAN SISTEM**
-
 ### **1. Struktur Role & Permission (RBAC)**
 
 ```php
